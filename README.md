@@ -5,13 +5,8 @@
 欢迎通过以下平台阅读我的文章、观看视频和与本人联系。
 
 -   **博客**：[草梅友仁的博客](https://blog.cmyr.ltd/) 在我的博客上，你可以找到我分享的最新技术文章和经验总结。你可以点击下方**最新博客**中的链接查看。
-
 -   **B 站**：[草梅友仁](https://space.bilibili.com/10822025) 在 B 站，你可以观看我制作的视频。
-
 -   **GitHub**：[CaoMeiYouRen](https://github.com/CaoMeiYouRen) 在我的 GitHub 主页上有我开源的项目和代码示例。
-
-<!-- -   **码云**：[草梅友仁](https://gitee.com/caomeiyouren) 在码云上，你可以找到我在国内的代码仓库。 -->
-
 -   **掘金**：[草梅友仁](https://juejin.cn/user/3043088413495815) 在掘金社区，你可以阅读我的技术文章和分享。
 -   **知乎**：[草梅友仁](https://www.zhihu.com/people/CaoMeiYouRen) 在知乎上，你可以了解我的观点和回答。
 -   **简书**：[草梅友仁](https://www.jianshu.com/u/c111d2a51026) 在简书上，你可以阅读我的随笔和心得体会。
@@ -23,11 +18,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2025-07-06 草梅 Auth 与 AI 开发心得 | 2025 年第 27 周草梅周报](https://blog.cmyr.ltd/archives/2025-27-caomei-weekly-ai-development.html)
 - [2025-06-29 豆包 AI 编程 | 2025 年第 26 周草梅周报](https://blog.cmyr.ltd/archives/2025-26-caomei-weekly-doubao-ai-coding.html)
 - [2025-06-22 Better Auth 集成简化用户系统开发 | 2025 年第 25 周草梅周报](https://blog.cmyr.ltd/archives/2025-25-caomei-weekly-better-auth-user-system.html)
 - [2025-06-15 RSS Zero 项目预告 | 2025 年第 24 周草梅周报](https://blog.cmyr.ltd/archives/2025-24-caomei-weekly-rss-zero-project-progress.html)
 - [2025-06-08 AI 图片文字翻译与视频字幕翻译工具推荐 | 2025 年第 23 周草梅周报](https://blog.cmyr.ltd/archives/2025-23-caomei-weekly-ai-image-video-translation-tools.html)
-- [2025-06-01 记一次杭州·第二十一届中国国际动漫节的体验](https://blog.cmyr.ltd/archives/98c96aac.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
