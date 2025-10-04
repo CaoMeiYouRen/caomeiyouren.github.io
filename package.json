@@ -12,12 +12,12 @@
   "author": "CaoMeiYouRen",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.6.3"
+    "vite": "^7.1.9",
+    "vitepress": "^1.6.4"
   },
   "pnpm": {
     "overrides": {
-      "vite": "^5.4.18",
-      "esbuild": "^0.25.0"
+      "vite": "$vite"
     }
   }
 }
