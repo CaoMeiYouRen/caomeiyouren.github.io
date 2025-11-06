@@ -12,12 +12,13 @@
   "author": "CaoMeiYouRen",
   "license": "MIT",
   "devDependencies": {
-    "vite": "^7.1.9",
+    "vite": "^7.1.11",
     "vitepress": "^1.6.4"
   },
   "pnpm": {
     "overrides": {
-      "vite": "$vite"
+      "vite": "$vite",
+      "brace-expansion": "1.1.12"
     }
   }
 }
