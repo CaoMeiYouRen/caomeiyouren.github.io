@@ -5,6 +5,12 @@ onlyBuiltDependencies:
   - esbuild
 
 overrides:
-  handlebars: "^4.7.9"
-  flatted: "^3.4.2"
-  rollup: "^4.59.0"
+  brace-expansion: ^1.1.12
+  flatted: ^3.4.2
+  handlebars: ^4.7.9
+  mdast-util-to-hast: ^13.2.1
+  rollup: ^4.59.0
+  vite: $vite
+
+strictPeerDependencies: false
+packageLock: true

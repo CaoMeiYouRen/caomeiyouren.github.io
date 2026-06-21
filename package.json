@@ -13,14 +13,8 @@
   "license": "MIT",
   "packageManager": "pnpm@11.2.2",
   "devDependencies": {
+    "esbuild": "^0.25.12",
     "vite": "^8.0.10",
     "vitepress": "^1.6.4"
-  },
-  "pnpm": {
-    "overrides": {
-      "vite": "$vite",
-      "brace-expansion": "^1.1.12",
-      "mdast-util-to-hast": "^13.2.1"
-    }
   }
 }
