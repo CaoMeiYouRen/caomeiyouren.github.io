@@ -16,11 +16,11 @@
 ## 最新博客
 
 <!-- BLOG_START -->
+- [2026-10-18 记一次上海·小红书 RED LAND 2026 观后感](https://blog.cmyr.ltd/archives/red-land-2026-experience-review.html)
 - [2026-09-20 dependfix 与 caomei-ui 及 AI 套餐实测 | 2026 年第 38 周草梅周报](https://blog.cmyr.ltd/archives/2026-38-caomei-weekly-dependfix-caomei-ui-ai-plan.html)
 - [2026-08-29 记一次动画电影《牛来》观后感](https://blog.cmyr.ltd/archives/niulai-animation-movie-review.html)
 - [2026-08-16 记一次上海·2026 鹰角嘉年华和 2026 ChinaJoy 观后感](https://blog.cmyr.ltd/archives/2026-hypergryph-carnival-chinajoy-experience.html)
 - [2026-07-14 记一次上海·BILIBILI MACRO LINK-PLAY! 2026 观后感和台风巴威吐槽](https://blog.cmyr.ltd/archives/2026-bml-play-review-typhoon-bavi.html)
-- [2026-07-05 墨梅博客 1.21.0 与 Hermes Agent 实践 | 2026 年第 27 周草梅周报](https://blog.cmyr.ltd/archives/2026-27-caomei-weekly-2026-27-weekly-momei-hermes-agent.html)
 <!-- BLOG_END -->
 
 [![Top Langs](https://gh-stats.cmyr.dev/api/top-langs/?username=CaoMeiYouRen)](https://github.com/CaoMeiYouRen)
